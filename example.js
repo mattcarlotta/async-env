@@ -7,4 +7,4 @@ console.log("🚀 extracted: ", extracted);
 
 // extended envs from magic comments
 const result = parse(readFileSync(".env.extends"));
-console.log("🚀 result", result);
+console.log("🚀 result: ", result);
