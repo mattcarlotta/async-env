@@ -1,0 +1,11 @@
+{
+  "name": "async-env",
+  "version": "0.0.1",
+  "description": "Example of spawning a child process to retrieve dynamic data.",
+  "scripts": {
+    "s": "node ./example.js"
+  },
+  "dependencies": {
+    "@noshot/env": "^2.0.0"
+  }
+}
