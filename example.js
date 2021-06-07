@@ -1,7 +1,7 @@
 const { readFileSync } = require("fs");
 const { config, parse } = require("@noshot/env");
 
-// dynamic properties
+// dynamic values
 const { extracted } = config({ paths: ".env.dynamicdata" });
 console.log("🚀 extracted: ", extracted);
 
