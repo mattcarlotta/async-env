@@ -1,7 +1,8 @@
 {
   "name": "async-env",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Example of spawning a child process to retrieve dynamic data.",
+  "license": "MIT",
   "scripts": {
     "e": "node ./example.js"
   },
